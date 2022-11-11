@@ -35,10 +35,10 @@ import static android.print.PrintAttributes.Margins.NO_MARGINS;
 import static android.print.PrintAttributes.MediaSize.UNKNOWN_LANDSCAPE;
 import static android.print.PrintAttributes.MediaSize.UNKNOWN_PORTRAIT;
 import static android.print.PrintDocumentInfo.PAGE_COUNT_UNKNOWN;
-import static android.support.v4.print.PrintHelper.ORIENTATION_LANDSCAPE;
-import static android.support.v4.print.PrintHelper.ORIENTATION_PORTRAIT;
-import static android.support.v4.print.PrintHelper.SCALE_MODE_FILL;
-import static android.support.v4.print.PrintHelper.SCALE_MODE_FIT;
+import static androidx.print.PrintHelper.ORIENTATION_LANDSCAPE;
+import static androidx.print.PrintHelper.ORIENTATION_PORTRAIT;
+import static androidx.print.PrintHelper.SCALE_MODE_FILL;
+import static androidx.print.PrintHelper.SCALE_MODE_FIT;
 
 /**
  * Wrapper for the print job settings.
