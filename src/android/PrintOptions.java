@@ -22,8 +22,8 @@
 package de.appplant.cordova.plugin.printer;
 
 import android.print.PrintAttributes;
-import android.support.annotation.NonNull;
-import android.support.v4.print.PrintHelper;
+import androidx.annotation.NonNull;
+import androidx.print.PrintHelper;
 
 import org.json.JSONObject;
 
